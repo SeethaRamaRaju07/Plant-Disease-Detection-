@@ -1,1 +1,1 @@
-# Capstone-1
+# Plant-Disease-Detection-
